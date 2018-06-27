@@ -1,7 +1,9 @@
 # webpackConfig
 webpack基础配置
 
-  ### 1. *npm install* 下载依赖包
+  ### 1. 下载依赖包
+  
+    npm install
   
   ### 2. 运行环境
   
