@@ -1,9 +1,10 @@
 # webpackConfig
 webpack基础配置
 
-  npm install
+  1. *npm install* 下载依赖包
   
-  开发：npm start <br>
-  生产：npm run build
+  2. 运行环境
+    开发：npm start
+    生产：npm run build
 
 
