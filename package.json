@@ -4,8 +4,8 @@
   "description": "webpack 配置包",
   "private": true,
   "scripts": {
-    "start": "webpack-dev-server --open --config webpack.dev.js",
-    "build": "webpack --config webpack.prod.js"
+    "start": "webpack-dev-server --open --config build/webpack.dev.js",
+    "build": "webpack --config build/webpack.prod.js"
   },
   "repository": {
     "type": "git",
